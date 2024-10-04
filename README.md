@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Law Enforcement Training</title>
+    <title>Leo Shield Law Enforcement Training</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
