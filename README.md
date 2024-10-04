@@ -10,7 +10,7 @@
     <!-- Header Section -->
     <header>
         <div class="container">
-            <h1 class="logo">Law Enforcement Training</h1>
+            <h1 class="logo">Leo Shield Law Enforcement Training</h1>
             <nav>
                 <ul>
                     <li><a href="#">Home</a></li>
